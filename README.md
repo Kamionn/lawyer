@@ -1,27 +1,42 @@
-<h1>Kavocat</h1>
+ 🇫🇷 
+**Presentation :**
 
-<h3>Description :</h3>  
+__https://youtu.be/3L-YT4k9_Tc__
 
-Un petit job avocat en RageUi v2
+**Téléchargement :**
 
-<h3>Le job inclus :</h3>
+__https://github.com/Kamionn/Kavocat__
 
-- Un Menu f6
-- Un Garage
-- Un Action Patron
-- Un vestiaire
-- Facture
-- Les Annonces : Ouvert | Fermer | Recrutement
+Le job inclus :
 
+> - Un Menu f6
+> - Un Garage
+> - Un Action Patron
+> - Un vestiaire
+> - Facture
+>  - Les Annonces : Ouvert | Fermer | Recrutement
 
-<h3>Optimisation ms : </h3>
+**Optimisation ms :**
 
-- Job en RageUi v2 | 0.02 ms
+> - Job en RageUi v2 | 0.01 ms
+__________________________________________________________________________
+🇺🇲 **Preview :**
 
-<h3> Preview :</h3>  
+__https://youtu.be/3L-YT4k9_Tc__
 
-https://youtu.be/3L-YT4k9_Tc
+**Download:**
 
-<h3> Discord :</h3>  
+__https://github.com/Kamionn/Kavocat__
 
-https://discord.gg/QWzGAKXwnC
+The job includes:
+
+> - A Menu f6
+> - A Garage
+> - A Patron Action
+> - A locker room
+> - Invoice
+>  - Ads: Open | Close | Recruitment
+
+**Ms Optimization:**
+
+> - Job in RageUi v2 | 0.01 ms
